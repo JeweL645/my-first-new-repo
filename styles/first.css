@@ -10,8 +10,16 @@
     background-size: 1350px 900px;
 
 }
-h1{
+h1, h2{
     text-align: center;
     font-style: italic;
     text-decoration: underline;
+}
+#second{
+    
+    background-image:url('../images/1.jpg');
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: 1350px 900px;
+
 }
