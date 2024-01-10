@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#dibba{
+    
+    background-image:url('../images/2.jpg');
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: 1350px 900px;
+
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
